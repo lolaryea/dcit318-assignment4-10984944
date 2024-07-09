@@ -1,0 +1,10 @@
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\bin\Debug\Canvas Drawing Application.exe.config
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\bin\Debug\Canvas Drawing Application.exe
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\bin\Debug\Canvas Drawing Application.pdb
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas Drawing Application.csproj.AssemblyReference.cache
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\DrawingApp.Form1.resources
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas_Drawing_Application.Properties.Resources.resources
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas Drawing Application.csproj.GenerateResource.cache
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas Drawing Application.csproj.CoreCompileInputs.cache
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas Drawing Application.exe
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\Canvas Drawing Application\Canvas Drawing Application\obj\Debug\Canvas Drawing Application.pdb
