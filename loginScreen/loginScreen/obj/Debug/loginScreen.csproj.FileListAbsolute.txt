@@ -1,0 +1,5 @@
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.AssemblyReference.cache
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\loginScreen\loginScreen\obj\Debug\loginScreen.Form1.resources
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\loginScreen\loginScreen\obj\Debug\loginScreen.Properties.Resources.resources
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.GenerateResource.cache
+C:\Users\FAKECADET\source\repos\dcit318-assignment4-10984944\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.CoreCompileInputs.cache
